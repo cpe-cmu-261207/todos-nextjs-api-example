@@ -7,7 +7,7 @@ https://jsonplaceholder.typicode.com/
 # API Docs
 `baseURL` : https://jsonplaceholder.typicode.com/ <br>
 `GET /todos` จะได้ todos ทั้งหมดออกมา เป็น Array <br>
-`GET /todos/:id` ได้จะได้ todo แต่ละอันที่ id = :id
+`GET /todos/:id` จะได้ todo แต่ละอันที่ id = :id ซึ่ง :id เป็น parameter จะเป็นค่าอะไรก็ได้
 
 การเปิด Project นี้
 - run yarn install
